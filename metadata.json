@@ -1,0 +1,6 @@
+{
+  "name": "Global Phone Validator",
+  "description": "Interactive country code selector with real-time dynamic telecom validation, carrier detection, and regex analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
